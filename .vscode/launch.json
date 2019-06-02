@@ -15,9 +15,9 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/Semana1/2019-05-23/bin/Debug/netcoreapp2.2/2019-05-23.dll",
+            "program": "${workspaceFolder}/Semana1/2019-05-24/bin/Debug/netcoreapp2.2/2019-05-24.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/Semana1/2019-05-23",
+            "cwd": "${workspaceFolder}/Semana1/2019-05-24",
             "console": "internalConsole",
             "stopAtEntry": false
         },
